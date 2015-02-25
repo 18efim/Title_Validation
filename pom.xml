@@ -37,7 +37,8 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>Selenium</mainClass>
+							<mainClass>Selenium_single_arg</mainClass>
+							<!-- <mainClass>${mainClass}</mainClass> -->
 						</manifest>
 					</archive>
 					<descriptorRefs>
